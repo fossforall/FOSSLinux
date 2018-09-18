@@ -1,3 +1,13 @@
+Freedom of Speech Saves Linux
+=============================
+This is a mirrored fork of the Linux kernel. This fork does not contain a
+code of conduct infringing on freedom of speech. Instead it uses a slightly 
+modified code of conflict. 
+
+If your pull request is rejected on the basis of a code of conduct violation
+feel free to make one for this repository instead. 
+
+
 Linux kernel
 ============
 
